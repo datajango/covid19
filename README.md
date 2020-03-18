@@ -1,12 +1,26 @@
 # Covid 19 Kaggle Competition
 
+## Getting Started
+
+1. Copy the Covid-19 Reseach data to the data folder as folder 2020-03-13
+
+1. Create the Anaconda Env, see Conda Setup
+
+1. run a program that reads teh metadata index of all papers.
+
+    ```sh
+    conda activate py37covid19 
+    cd shared
+    python index_reader.py
+    ```
+
 ## Data
 
 - CORD-19-research-challenge
 
 ## Conda Setup
 
-1, To update conda run
+1. To update conda run
 
     ```sh
     conda update -n base -c defaults conda
