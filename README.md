@@ -9,7 +9,7 @@
 
 1. Create a Anaconda Environment
     ```
-    conda create --name py37radish python=3.7
+    conda create --name py37covid19 python=3.7
     ```
 
 1. Activate the Anaconda Environment
@@ -17,7 +17,7 @@
     conda activate py37covid19
     ```
 
-1. Install PIP requiremenst into the "General Use" Python 3.7 Anaconda Environment
+1. Install PIP requirements into the "Covid-19 Research" Python 3.7 Anaconda Environment
     ```sh
     pip install -r requirements.txt
     ```
