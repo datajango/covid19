@@ -13,6 +13,11 @@
     cd shared
     python index_reader.py
     ```
+    You should see the following output:
+    ```
+    There are 14 columns.
+    There are 29500 rows.
+    ```
 
 ## Data
 
