@@ -13,29 +13,36 @@
     ```
 
 1. List current Anaconda environmets.
+
     ```sh
     conda env list
     ```
 
 1. Create a Anaconda Environment
-    ```
+
+    ```sh
     conda create --name py37covid19 python=3.7
     ```
 
 1. Activate the Anaconda Environment
+
     ```sh
     conda activate py37covid19
     ```
 
 1. Install PIP requirements into the "Covid-19 Research" Python 3.7 Anaconda Environment
+
     ```sh
     pip install -r requirements.txt
     ```
 
 1. Create a requirements.txt to hold the pip package list
+
     ```sh
     conda list -e > requirements.txt
     ```
+
+
 ## Tasks
 
 1. [What is known about transmission, incubation, and environmental stability? What do we know about natural history, transmission, and diagnostics for the virus? What have we learned about infection prevention and control?](./docs/Task01.md)
