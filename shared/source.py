@@ -1,0 +1,15 @@
+class Source(object):
+    # sha
+    # source_x
+    # title
+    # doi
+    # pmcid
+    # pubmed_id
+    # license
+    # abstract
+    # publish_time
+    # authors
+    # journal
+    # microsoft_id
+    # who_number_covidence
+    # has_full_text
