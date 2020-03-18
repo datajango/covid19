@@ -6,17 +6,40 @@
 
 1. Create the Anaconda Env, see Conda Setup
 
-1. run a program that reads teh metadata index of all papers.
+1. Run a program that reads the metadata index of all papers.
 
     ```sh
     conda activate py37covid19 
-    cd shared
+    cd src
     python index_reader.py
     ```
     You should see the following output:
     ```
     There are 14 columns.
     There are 29500 rows.
+    ```
+
+1. Run a program that reads the actual JSON files of every publication.
+
+    ```sh
+    conda activate py37covid19 
+    cd src
+    python load_every_json_file.py
+    ```
+    You should see output for 29500 publication that reports on the abstract and the full text:
+    ```
+    deaac80fa1b6ee6b493932b297496c8751c9ef1b.json has an abstract and has full text
+    dec1d801c2d5a971207df424ede4b1d65267b212.json has an abstract and has full text
+    dec25863e871c025ecfd92611e727196ae88cb5b.json has an abstract and has full text
+    deda9e69d8455166370e8bd96c2bdb630c4b97b0.json has an abstract and has full text
+    dedf310e36616461c82de98d9b0ceae75c30e5cd.json has an abstract and has full text
+    dedff395d93d8023667fc500d7c7c8451d581451.json has an abstract and has full text
+    deeacb8558e3403c69cd8db9f4e8e5214fd85c46.json has an abstract and has full text
+    deedf1e06ab3cae049c5326cab4e4a2771f54233.json has no abstract and has no full text
+    def1cf77e1ef84f4373a342e23145be05ec5e226.json has an abstract and has full text
+    def339c1e20c36c30ae665e0a4573ed30be45df7.json has an abstract and has full text
+    df0310a74d62210e31be9fbe879085499825b14d.json has an abstract and has full text
+    df1017e24101a51f6b5ca30ae2cb8376d8756a61.json has an abstract and has full text
     ```
 
 ## Data
