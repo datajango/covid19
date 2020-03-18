@@ -6,7 +6,7 @@ COVID-19 Open Research Dataset Challenge (CORD-19)
 
 ## Task Details
 
-**What do we know about virus genetics, origin, and evolution? What do we know about the virus origin and management measures at the human-animal interface?**
+What do we know about virus genetics, origin, and evolution? What do we know about the virus origin and management measures at the human-animal interface?
 
 Specifically, we want to know what the literature reports about:
 
