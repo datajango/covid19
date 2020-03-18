@@ -1,4 +1,6 @@
-# What do we know about COVID-19 risk factors?
+# Task 2 COVID-19 Open Research Dataset Challenge (CORD-19)
+
+## What do we know about COVID-19 risk factors?
 
 COVID-19 Open Research Dataset Challenge (CORD-19)
 

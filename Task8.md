@@ -1,12 +1,10 @@
-##### What do we know about diagnostics and surveillance?
+# Task 8 COVID-19 Open Research Dataset Challenge (CORD-19)
+
+## What do we know about diagnostics and surveillance?
 
 COVID-19 Open Research Dataset Challenge (CORD-19)
 
 [Paul Mooney](https://www.kaggle.com/paultimothymooney) · 0 Submissions
-
-32
-
-
 
 ## Task Details
 

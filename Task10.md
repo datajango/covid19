@@ -1,4 +1,6 @@
-##### What has been published about information sharing and inter-sectoral collaboration?
+# Task 10 COVID-19 Open Research Dataset Challenge (CORD-19)
+
+## What has been published about information sharing and inter-sectoral collaboration?
 
 COVID-19 Open Research Dataset Challenge (CORD-19)
 

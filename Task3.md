@@ -1,4 +1,6 @@
-# What do we know about virus genetics, origin, and evolution?
+# Task 3 COVID-19 Open Research Dataset Challenge (CORD-19)
+
+## What do we know about virus genetics, origin, and evolution?
 
 COVID-19 Open Research Dataset Challenge (CORD-19)
 

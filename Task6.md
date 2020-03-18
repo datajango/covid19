@@ -1,4 +1,6 @@
-# What do we know about vaccines and therapeutics?
+# Task 6 COVID-19 Open Research Dataset Challenge (CORD-19)
+
+## What do we know about vaccines and therapeutics?
 
 COVID-19 Open Research Dataset Challenge (CORD-19)
 

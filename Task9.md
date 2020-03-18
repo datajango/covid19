@@ -1,4 +1,6 @@
-##### What has been published about medical care?
+# Task 9 COVID-19 Open Research Dataset Challenge (CORD-19)
+
+## What has been published about medical care?
 
 COVID-19 Open Research Dataset Challenge (CORD-19)
 

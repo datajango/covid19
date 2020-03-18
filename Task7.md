@@ -1,4 +1,6 @@
-# What has been published about ethical and social science considerations?
+# Task 7 COVID-19 Open Research Dataset Challenge (CORD-19)
+
+## What has been published about ethical and social science considerations?
 
 COVID-19 Open Research Dataset Challenge (CORD-19)
 
