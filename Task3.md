@@ -45,23 +45,3 @@ To be valid, a [submission](https://www.kaggle.com/product-feedback/121068) must
   - Round 2: Submission deadline is June 16, 2020 at 11:59pm UTC. The hosts may add prize-eligible tasks in round 2. We may also re-award prizes for existing tasks whose submissions have advanced from the prior award, as judged by the evaluation committee.**
 
 **By each of these submission deadlines, you must have accepted the [rules](https://www.kaggle.com/cord-19-rules-accept-form) and shared your notebook submission publicly to be considered for prizes in each respective round
-
-## Prizes
-
-- Kaggle is sponsoring a
-
-   
-
-  $1,000 per task
-
-   
-
-  award to the winner who is identified as best meeting the evaluation criteria. The winner may elect to receive this award as a charitable donation to COVID-19 relief/research efforts or as a monetary payment. Some details:
-
-  - Prize-eligible tasks are defined and specified as such on the task by the sponsor and hosts.
-  - A team or user is eligible to receive awards for multiple tasks.
-  - If the team consists of multiple users, they may elect to divide the monetary prize equally or donate their entire award.
-  - Prizes will be distributed in 2 rounds, per details contained in the timeline.
-  - Evaluation will be judged by a committee consisting of subject matter experts.
-  - All judgments are considered final.
-  - Kaggle reserves the right to adjust the prize distribution schedule if needed.
