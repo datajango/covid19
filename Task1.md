@@ -1,6 +1,6 @@
-## What is known about transmission, incubation, and environmental stability?
+# Task 1 COVID-19 Open Research Dataset Challenge (CORD-19)
 
-COVID-19 Open Research Dataset Challenge (CORD-19)
+## What is known about transmission, incubation, and environmental stability?
 
 ### Task Details
 

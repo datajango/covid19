@@ -1,4 +1,6 @@
-# What do we know about non-pharmaceutical interventions?
+# Task 5 COVID-19 Open Research Dataset Challenge (CORD-19)
+
+## What do we know about non-pharmaceutical interventions?
 
 COVID-19 Open Research Dataset Challenge (CORD-19)
 
