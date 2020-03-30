@@ -4,10 +4,9 @@
 
 ### Task Details
 
-#### What is known about transmission, incubation, and environmental stability? What do we know about natural history, transmission, and diagnostics for the virus? What have we learned about infection prevention and control?
+What is known about transmission, incubation, and environmental stability? What do we know about natural history, transmission, and diagnostics for the virus? What have we learned about infection prevention and control?
 
 Specifically, we want to know what the literature reports about:
-
 - Range of incubation periods for the disease in humans (and how this varies across age and health status) and how long individuals are contagious, even after recovery.
 - Prevalence of asymptomatic shedding and transmission (e.g., particularly children).
 - Seasonality of transmission.
